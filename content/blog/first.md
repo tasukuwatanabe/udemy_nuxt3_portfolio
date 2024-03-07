@@ -1,5 +1,21 @@
+---
+title: 'Title of the page'
+description: 'meta description of the page'
+head:
+  meta:
+    - name: 'keywords'
+      content: 'nuxt, vue, content'
+    - name: 'robots'
+      content: 'index, follow'
+    - name: 'author'
+      content: 'NuxtLabs'
+    - name: 'copyright'
+      content: '©︎ 2024 NuxtLabs'
+    - property: 'og:title'
+      content: 'This is an OpenGraph title'
+---
 # First post on our website
-## Introduction 
+## Introduction
 This is some text. *This is italic*.
 
 ## Second Part
